@@ -1,0 +1,12 @@
+data/
+dataset/
+model/
+output/
+build/
+__pycache__/
+.vscode/
+data.tar.gz
+.DS_Store
+*.[oa]
+data/
+.cache/
